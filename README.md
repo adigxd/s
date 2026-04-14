@@ -1,4 +1,4 @@
-# s
+# skills
 
 ### What?
 Skills for Claude or whatever else ...
