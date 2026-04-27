@@ -14,4 +14,5 @@ https://claude.ai/customize/skills ➡️ `+ Create skill` ➡️ `Upload a skil
 
 <br/>
 
-> *"if you have any questions, let me know; if not, continue"* - Prompter
+> *"if you have any questions, let me know; if not, continue"*
+> *-Prompter*
